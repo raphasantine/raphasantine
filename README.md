@@ -41,7 +41,7 @@ atuo na área de Inteligência e Estratégia, trabalhando com análise de indica
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
 </p>
----
+
 
 ### Contato:
 
