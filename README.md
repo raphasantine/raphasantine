@@ -16,7 +16,7 @@
   Sou estudante de Análise e Desenvolvimento de Sistemas e profissional da área de Inteligência e Estratégia.
 </p>
 
-atuo na área de Inteligência e Estratégia, trabalhando com análise de indicadores, organização e validação de dados, dashboards e melhoria de processos. Tenho interesse em ampliar meus conhecimentos em transformar dados em informações estratégicas, inteligência de negócios e gestão de projetos, conectando tecnologia, negócio e pessoas na construção de soluções.
+Atuo na área de Inteligência e Estratégia, trabalhando com análise de indicadores, organização e validação de dados, dashboards e melhoria de processos. Tenho interesse em ampliar meus conhecimentos em transformar dados em informações estratégicas, inteligência de negócios e gestão de projetos, conectando tecnologia, negócio e pessoas na construção de soluções.
 
 ---
 
