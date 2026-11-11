@@ -1,4 +1,4 @@
-# Oie, Eu sou a Raphaela Santos!! 🐉
+# Oiie, Eu sou a Raphaela Santos!! 🐉
 
 **Data Analytics | Business Intelligence | Project Management**
 
