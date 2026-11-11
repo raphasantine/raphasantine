@@ -25,11 +25,11 @@ Atuo na área de Inteligência e Estratégia, trabalhando com análise de indica
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="SQL"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Office_Excel_(2019%E2%80%932025).svg" width="42" height="42" alt="Excel"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/database.svg" width="42" height="42" alt="SQL"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/New_Power_BI_Logo.svg" width="42" height="42" alt="Power BI"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
   &nbsp;&nbsp;
