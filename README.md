@@ -1,5 +1,14 @@
 # Oiie, Eu sou Raphaela Santos!! 🐉
 
+```text
+ ██████╗ ██╗      █████╗      ███╗   ███╗██╗   ██╗███╗   ██╗██████╗  ██████╗     ██╗
+██╔═══██╗██║     ██╔══██╗     ████╗ ████║██║   ██║████╗  ██║██╔══██╗██╔═══██╗    ██║
+██║   ██║██║     ███████║     ██╔████╔██║██║   ██║██╔██╗ ██║██║  ██║██║   ██║    ██║
+██║▄▄ ██║██║     ██╔══██║     ██║╚██╔╝██║██║   ██║██║╚██╗██║██║  ██║██║   ██║    ╚═╝
+╚██████╔╝███████╗██║  ██║     ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██████╔╝╚██████╔╝    ██╗
+ ╚══▀▀═╝ ╚══════╝╚═╝  ╚═╝     ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝  ╚═════╝     ╚═╝
+```
+
 **Data Analytics | Business Intelligence | Project Management**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo na área de Inteligência e Estratégia, trabalhando com análise de indicadores, organização e validação de dados, dashboards e melhoria de processos. Tenho interesse em transformar dados em informações estratégicas e conectar tecnologia, negócio e pessoas na construção de soluções.
